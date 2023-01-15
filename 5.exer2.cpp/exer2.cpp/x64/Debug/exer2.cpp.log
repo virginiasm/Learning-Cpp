@@ -1,0 +1,3 @@
+﻿  exer2.cpp.cpp
+C:\Users\vivis\Desktop\C++\exer2.cpp\exer2.cpp\exer2.cpp.cpp(9,34): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  exer2.cpp.vcxproj -> C:\Users\vivis\Desktop\C++\exer2.cpp\x64\Debug\exer2.cpp.exe
